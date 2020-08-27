@@ -6,6 +6,9 @@ import Markdown from '../components/Markdown';
 import Footer from '../components/Footer';
 import mobile from 'is-mobile';
 
+import Scroll from '../../static/scroll.mp4';
+
+
 class Resources extends React.Component {
     componentDidMount() {
 
@@ -24,7 +27,9 @@ class Resources extends React.Component {
                 <header>
                     <Nav activeTab="RESOURCES" />
                     <div id="logo-container">
-                        <Logo />
+                        <video autoPlay loop muted>
+                            <source src={Scroll} type="video/mp4" />
+                        </video>
                     </div>
                 </header>
                 <div id="body-container">

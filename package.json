@@ -1,7 +1,7 @@
 {
-  "name": "objects-and-non",
+  "name": "programming-for-artists-ccny-2020",
   "private": true,
-  "description": "class site for Objects and Non-objects in the DIAP program at CCNY",
+  "description": "class site for Programming for Artists CCNY 2020",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -36,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stalgiag/objects-and-non"
+    "url": "https://github.com/stalgiag/programming-for-artists"
   }
 }

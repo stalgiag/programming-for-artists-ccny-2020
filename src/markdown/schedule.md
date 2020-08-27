@@ -13,20 +13,27 @@ CLASS 01 | 08-27
 #### During Class
 - Introductions
 - Course Overview
-- Objects & Non-Objects Overview Lecture
+- Programming for Artists Overview Lecture
 - Overview of Tools for Semester Work
+- Tutorial on Drawing & Coordinate System
 
 #### Before Next Class
 - Start an [are.na](https://www.are.na/) account
   - This is where you will keep your sketchbook for the course
-  - Create a Channel called 'Objects and Non'
-  - Connect your Channel to the [Class Channel](https://www.are.na/stalgia-grigg/objects-non)
 
-- Listen to [Graham Harman's Lecture: Object and the Arts](https://www.youtube.com/watch?v=QJ0GR9bf00g)
-- Read [The Nadir of Ooo: From Graham Harman's Tool-Being to Timothy Morton;s Realist Magic: Objects, Ontology, Causality](https://www.meineigenheim.org/ccny/diap/B2050_old/materials/ooo/nadir_of_ooo_brown.pdf)
-- Bring an object to the next class that **decenters you**
-  - You can 'bring' the object in the form of documentation, evidence, or you can have the physical object with you during class
+- Read [Coordinate System and Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
+- Follow Along with Coding Train Videos:
+  - [Shapes and Drawing](https://thecodingtrain.com/beginners/p5js/1.3-shapes-and-drawing.html)
+  - [Color](https://thecodingtrain.com/beginners/p5js/1.4-color.html)
+  - [Code Comments](https://www.youtube.com/watch?v=xJcrPJuem5Q)
 
+- Create a still life (assignment adapted by Laurel Schwulst)
+  - Assemble a still-life in your workspace
+  - This can be an arrangement of a few simple objects, anything is okay
+  - Try to "draw" the still life using what you learned in class and by watching the videos
+  - Don't worry about details. The goal isn't to spend a ton of time writing hundreds of lines of code but instead to find large shapes and think about the computer as also space of 'flattening' in much the same way as drawing.
+  - Feel free to explore other drawing functions in the `2D Primitives` section of [the reference](https://p5js.org/reference/)
+  - After you have finished, go to `File->Share` and copy the 'Present' link; make a new block in the class are.na inside of the 'Still Life' channel, add your 'Present' link as the block
 
 </div>
 
@@ -40,14 +47,20 @@ CLASS 02 | 09-03
 <div class = "class-schedule-details">
 
 #### During Class
-- Reading Discussion
-- Object Discussion
-- Artist Lecture (Material and Presence)
+- Look at Exercises
+- Movement and Responsiveness Artist Lecture
+- Tutorial on Variables, Animation, and Debugging
+
 
 #### Before Next Class
-- Read [Tim Morton's Introduction to "Realist Magic: Objects, Ontology, Causality"](https://www.meineigenheim.org/ccny/diap/B2050_old/materials/ooo/realist-magic-objects-ontology-causality.pdf)
-- Bring something malleable to class, something without finalized form, something that can be manipulated by your hands
-  - Examples: clay, playdoh, dough, slime, mud, peanut butter, etc (note these examples are straightforward, feel free to surprise us)
+
+- Watch Coding Train:
+  - [Variables 1](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
+  - [Variables 2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
+  - [Errors and Console](https://www.youtube.com/watch?v=LuGsp5KeJMM)
+- Read p5 References:
+  - [Debugging](https://p5js.org/learn/debugging.html)
+  - [Color](https://p5js.org/learn/color.html)
 
 </div>
 
@@ -61,19 +74,15 @@ CLASS 03 | 09-10
 <div class = "class-schedule-details">
 
 #### During Class
-- Mutability Discussion
-- Photogrammetry Workshop Pt 1
-- Lecture on Interobject Relationships
+- Look at Exercises
+- Interactivity Artist Lecture
+- Tutorial on Conditionals, Randomness, and Interaction
 
 #### Before Next Class
-- Document 5 relationships between objects that tell a story
-  - These can be photographs, drawings, whatever is generative for you
-  - These can be constructed or discovered
-  - Start a new are.na channel named "Incidental or Made" that is connected to your "Objects & Non" Channel
-  - Add your 5 documents to the channel
-  - Bonus points if these object-relationship-configurations in a way that you can express (not actual bonus points, just a good goal)
-- Read [Chapter 1: Irreductions of Prince of Networks by Graham Harmon](http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf)
-
+- Watch Coding Train:
+  - [Conditionals 1](https://www.youtube.com/watch?v=1Osb_iGDdjk)
+  - [Conditionals 2](https://www.youtube.com/watch?v=LO3Awjn_gyU)
+  - [Conditionals 3](https://www.youtube.com/watch?v=r2S7j54I68c&t=730s)
 
 </div>
 
@@ -87,21 +96,13 @@ CLASS 04 | 09-17
 <div class = "class-schedule-details">
 
 #### During Class
-- View and Discuss 'Incidental and Made' homework
-- Photogrammetry Workshop Pt. 2
-- Lecture on Material vs. Immaterial
+- Look at Exercises
+- Multimedia and Digital Collage artist lecture
+- Tutorial on Media (Image, Video, Sound)
 
 #### Before Next Class
-- Develop an idea for an artwork that engages with 1 of the following binaries:
-  - Subject v. Object
-  - Material v. Immaterial
-  - Mutable v. Immutable
-  - Connected v. Disconnected
-- This artwork can be based on prior work, it can also be an adaptation of an ongoing project
-- The project should be scoped so that it can be completed for critique in 1 month
-- Prepare a 10-slide proposal presentation for your artwork
-- Your presentation should include information on both the conceptual intentions and practical considerations for the project
-- Bring your proposal to next class, you will screenshare and present your idea, we will offer feedback
+- Watch Coding Train:
+  - [Uploading Media Files](https://www.youtube.com/watch?v=rO6M5hj0V-o)
 
 </div>
 
@@ -115,17 +116,17 @@ CLASS 05 | 09-24
 <div class = "class-schedule-details">
 
 #### During Class
-- View your proposals and share feedback with one another
+- Look at Exercises
+- Repetition Artist Lecture
+- Tutorial on Loops and Collections
 
 #### Before Next Class
-- Read [the Introduction to 'On the Existence of Digital Objects' by Yuk Hui](https://sgp1.digitaloceanspaces.com/proletarian-library/My-library/Yuk%20Hui/On%20the%20Existence%20of%20Digital%20Objects%20%28Electronic%20Mediations%29%20%28455%29/On%20the%20Existence%20of%20Digital%20Objects%20%28Elect%20-%20Yuk%20Hui.pdf)
-- Read [Form and Relation: Materialism on an Uncanny Stage by Yuk Hui](http://digitalmilieu.net/documents/Hui_form%20and%20relation.pdf)
-
-- Document 5 'digital objects'
-  - Documentation can be photographs, drawings, whatever is expressive
-  - Start a new are.na channel named "Digital Objects" that is connected to your "Objects & Non" Channel
-  - Add your 5 documents to the channel
-  - Bonus points if these object-relationship-configurations in a way that you can express (not actual bonus points, just a good goal)
+- Watch Coding Train Loops & Functions tutorials:
+  - [Loops Pt. 1](https://www.youtube.com/watch?v=cnRD9o6odjk)
+  - [Loops Pt. 2](https://www.youtube.com/watch?v=1c1_TMdf8b8&t=158s)
+  - [Functions Pt. 1](https://www.youtube.com/watch?v=wRHAitGzBrg)
+  - [Functions Pt. 2](https://www.youtube.com/watch?v=zkc417YapfE)
+  - [Functions Pt. 3](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
 
 
 </div>

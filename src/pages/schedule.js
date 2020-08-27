@@ -7,6 +7,8 @@ import Footer from '../components/Footer';
 import '../styles/main.scss';
 
 import mobile from 'is-mobile';
+import Scroll from '../../static/scroll.mp4';
+
 
 export default function Resources() {
     if (mobile()) {
@@ -21,7 +23,9 @@ export default function Resources() {
             <header>
                 <Nav activeTab="SCHEDULE" />
                 <div id="logo-container">
-                    <Logo />
+                    <video autoPlay loop muted>
+                        <source src={Scroll} type="video/mp4" />
+                    </video>
                 </div>
             </header>
             <div id="body-container">

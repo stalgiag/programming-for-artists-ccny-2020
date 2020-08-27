@@ -5,13 +5,18 @@ import Marquee from '../components/Marquee';
 import Footer from '../components/Footer';
 import '../styles/main.scss';
 
+import Scroll from '../../static/scroll.mp4';
+
+
 export default function Resources() {
     return (
         <>
             <header>
                 <Nav activeTab="WORK" />
                 <div id="logo-container">
-                    <Logo />
+                    <video autoPlay loop muted>
+                        <source src={Scroll} type="video/mp4" />
+                    </video>
                 </div>
             </header>
             <div id="body-container">
