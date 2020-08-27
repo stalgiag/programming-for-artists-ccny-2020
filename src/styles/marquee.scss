@@ -1,0 +1,12 @@
+.marquee3k{
+}
+
+#marquee-container {
+    background: black;
+    right: 0;
+    position: fixed;
+    top: 50%;
+    transform-origin: top right;
+    transform: rotate(90deg) translateX(50%);
+    overflow:hidden;
+}

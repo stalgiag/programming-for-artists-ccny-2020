@@ -1,0 +1,44 @@
+@counter-style thumbs {
+    system: cyclic;
+    symbols: "\3030";
+    suffix: " ";
+  }
+
+.markdown-content {
+    padding: 4rem;
+    padding-right: 4rem;
+}
+
+.markdown-content li {
+    color: indigo;
+    list-style-type: thumbs;
+}
+
+.markdown-content h2 {
+    color: black;
+}
+
+.markdown-content h1 {
+    color: indigo;
+    text-align: center;
+}
+
+.markdown-content summary {
+    cursor: crosshair;
+    color: indigo;
+}
+
+.markdown-content details {
+    outline: 1px black solid;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+
+.class-schedule-details li {
+    color:black;
+}
+
+.markdown-content a {
+    color: dodgerblue;
+}
