@@ -5,7 +5,7 @@ category: "SCHEDULE"
 
 <details>
 <summary>
-CLASS 01 | 08-27
+CLASS 01 | 08-28
 </summary>
 
 <div class = "class-schedule-details">
@@ -27,13 +27,13 @@ CLASS 01 | 08-27
   - [Color](https://thecodingtrain.com/beginners/p5js/1.4-color.html)
   - [Code Comments](https://www.youtube.com/watch?v=xJcrPJuem5Q)
 
-- Create a still life (assignment adapted by Laurel Schwulst)
+- Create and Upload Exercise 1: Still Life
   - Assemble a still-life in your workspace
   - This can be an arrangement of a few simple objects, anything is okay
-  - Try to "draw" the still life using what you learned in class and by watching the videos
+  - Try to "draw" the still life in p5.js using what you learned in class and by watching the videos
   - Don't worry about details. The goal isn't to spend a ton of time writing hundreds of lines of code but instead to find large shapes and think about the computer as also space of 'flattening' in much the same way as drawing.
   - Feel free to explore other drawing functions in the `2D Primitives` section of [the reference](https://p5js.org/reference/)
-  - After you have finished, go to `File->Share` and copy the 'Present' link; make a new block in the class are.na inside of the 'Still Life' channel, add your 'Present' link as the block
+  - After you have finished, go to `File->Share` and copy the 'Present' link; go to the class are.na channel and navigate into the 'Still Life' sub-channel, add your 'Present' link as new block
 
 </div>
 
@@ -41,7 +41,7 @@ CLASS 01 | 08-27
 
 <details>
 <summary>
-CLASS 02 | 09-03
+CLASS 02 | 09-04
 </summary>
 
 <div class = "class-schedule-details">
@@ -62,13 +62,18 @@ CLASS 02 | 09-03
   - [Debugging](https://p5js.org/learn/debugging.html)
   - [Color](https://p5js.org/learn/color.html)
 
+- Create and Upload Exercise 2: Follower
+  - Create a drawing of a Follower (interpret the meaning of this however you would like) that 'follows' your mouse around the canvas
+  - At least one element of your Follower should change depending on its location.
+  - After you have finished, go to `File->Share` and copy the 'Present' link; go to the class are.na channel and navigate into the 'Followers' sub-channel, add your 'Present' link as new block
+
 </div>
 
 </details>
 
 <details>
 <summary>
-CLASS 03 | 09-10
+CLASS 03 | 09-11
 </summary>
 
 <div class = "class-schedule-details">
@@ -83,6 +88,12 @@ CLASS 03 | 09-10
   - [Conditionals 1](https://www.youtube.com/watch?v=1Osb_iGDdjk)
   - [Conditionals 2](https://www.youtube.com/watch?v=LO3Awjn_gyU)
   - [Conditionals 3](https://www.youtube.com/watch?v=r2S7j54I68c&t=730s)
+  - [map() function](https://www.youtube.com/watch?v=nicMAoW6u1g)
+
+- Create and Upload Exercise 3: Interactive Poem
+  - Create a poem that changes based on user interaction
+  - This can take the form of a 'branching set of possibilities' or another experimental form
+  - After you have finished, go to `File->Share` and copy the 'Present' link; go to the class are.na channel and navigate into the 'Shifting Poems' sub-channel, add your 'Present' link as new block
 
 </div>
 
@@ -90,7 +101,7 @@ CLASS 03 | 09-10
 
 <details>
 <summary>
-CLASS 04 | 09-17
+CLASS 04 | 09-18
 </summary>
 
 <div class = "class-schedule-details">
@@ -104,13 +115,21 @@ CLASS 04 | 09-17
 - Watch Coding Train:
   - [Uploading Media Files](https://www.youtube.com/watch?v=rO6M5hj0V-o)
 
+- Create and Upload Exercise 4: Unstable Collage
+  - Create a p5.js sketch that is a collage of at least 2 different media elements (video, sound, text, image)
+  - You can use as many media elements as you want.
+  - You can digitally manipulate the media before adding to your sketch
+  - Make the collage shift in some way
+  - When different elements overlap or interact, they should change in some way
+  - After you have finished, go to `File->Share` and copy the 'Present' link; go to the class are.na channel and navigate into the 'Unstable Collages' sub-channel, add your 'Present' link as new block
+
 </div>
 
 </details>
 
 <details>
 <summary>
-CLASS 05 | 09-24
+CLASS 05 | 09-25
 </summary>
 
 <div class = "class-schedule-details">
@@ -118,16 +137,40 @@ CLASS 05 | 09-24
 #### During Class
 - Look at Exercises
 - Repetition Artist Lecture
-- Tutorial on Loops and Collections
+- Tutorial on Loops
 
 #### Before Next Class
-- Watch Coding Train Loops & Functions tutorials:
+- Watch Coding Train Loops:
   - [Loops Pt. 1](https://www.youtube.com/watch?v=cnRD9o6odjk)
   - [Loops Pt. 2](https://www.youtube.com/watch?v=1c1_TMdf8b8&t=158s)
+
+
+- Create and Upload Exercise 5: TBD (will update after first class)
+
+  
+</div>
+
+</details>
+
+<details>
+<summary>
+CLASS 06 | 10-02
+</summary>
+
+<div class = "class-schedule-details">
+
+#### During Class
+- Look at Exercises
+- Data Artist Lecture
+- Tutorial on Collections and Functions
+
+#### Before Next Class
+- Watch Coding Train:
   - [Functions Pt. 1](https://www.youtube.com/watch?v=wRHAitGzBrg)
   - [Functions Pt. 2](https://www.youtube.com/watch?v=zkc417YapfE)
   - [Functions Pt. 3](https://www.youtube.com/watch?v=qRnUBiTJ66Y)
 
+- Create and Upload Exercise 6: TBD (will update after first class)
 
 </div>
 
@@ -135,20 +178,18 @@ CLASS 05 | 09-24
 
 <details>
 <summary>
-CLASS 06 | 10-01
+CLASS 07 | 10-09
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Reading Discussion
-- Digital Materiality lecture
+- Look at Exercises
+- Tutorial on Object-Oriented Programming
 
 #### Before Next Class
-- Prepare work-in-progress documentation or anything useful for 1-on-1 studio visits
-- Create a 'Project 1' channel and connect it to your 'Objects and Non' channel
-  - Add 10 reference blocks to this new channel
-  - These reference blocks can be sketches, found images, notes, anything that shows your active thinking
+- Create and Upload Exercise 7: TBD (will update after first class)
+
 
 </div>
 
@@ -156,17 +197,18 @@ CLASS 06 | 10-01
 
 <details>
 <summary>
-CLASS 07 | 10-08
+CLASS 08 | 10-16
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- 1-on-1 studio visits
+- Look at Exercises
+- Tutorial on HTML and DOM
 
 #### Before Next Class
-- Read [Black Mysticism by Calvin Warren](https://unbag.net/end/black-mysticism)
-- Read A Poetics of the Undercommons by Fred Moten
+- Watch first 3 [Coding Train HTML/CSS/DOM videos](https://thecodingtrain.com/Tutorials/8-html-css-dom/)
+- Create and Upload Exercise 8: TBD (will update after first class)
 
 </div>
 
@@ -174,17 +216,17 @@ CLASS 07 | 10-08
 
 <details>
 <summary>
-CLASS 08 | 10-15
+CLASS 09 | 10-23
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Reading Discussion
-- Brief 1-on-1 Meetings
+- Look at Exercises
+- Image and Video Processing, Face Detection
 
 #### Before Next Class
-- Finish Project 1 for Critique
+- Create and Upload Exercise 9: TBD (will update after first class)
 
 </div>
 
@@ -192,19 +234,18 @@ CLASS 08 | 10-15
 
 <details>
 <summary>
-CLASS 09 | 10-22
+CLASS 10 | 10-30
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Critique
+- Look at Exercises
+- Tutorial on Additional Libraries
 
 #### Before Next Class
-- Read Strange Weather: Indigenous Materialisms, New Materialism, and Colonialism by Alison Ravenscroft
-- Read Excerpt from Vibrant Matter by Jane Bennet
-- Read Animacies: Biopolitics, Racial Mattering, and Queer Affect by Mel Chin
-- Read 3D Additivist Manifesto
+- Create and Upload Exercise 10: TBD (will update after first class)
+
 
 </div>
 
@@ -212,17 +253,19 @@ CLASS 09 | 10-22
 
 <details>
 <summary>
-CLASS 10 | 10-29
+CLASS 11 | 11-06
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Discuss Readings
-- Technical Workshop (TBD)
+- Look at Exercises
+- Tutorial on WEBGL
 
 #### Before Next Class
-- Prepare a 10-slide proposal presentation for your final project
+- Prepare 10 slide presentation that will serve as your proposal for final project
+  - You will present this to the class through screenshare
+  - Talk about the themes, concepts, technical challenges, and timeline
 
 </div>
 
@@ -230,7 +273,7 @@ CLASS 10 | 10-29
 
 <details>
 <summary>
-CLASS 11 | 11-05
+CLASS 12 | 11-13
 </summary>
 
 <div class = "class-schedule-details">
@@ -239,11 +282,7 @@ CLASS 11 | 11-05
 - View your proposals and share feedback with one another
 
 #### Before Next Class
-- Create a 'Project 2' channel and connect it to your 'Objects and Non' channel
-  - Add 10 reference blocks to this new channel
-  - These reference blocks can be sketches, found images, notes, anything that shows your active thinking
 
-- Read TBD Readings on Mimickry and Hyperrealism
 
 </div>
 
@@ -251,13 +290,13 @@ CLASS 11 | 11-05
 
 <details>
 <summary>
-CLASS 12 | 11-12
+CLASS 13 | 11-20
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Technical Tutorial (TBD)
+- Tutorial on alternate workflows
 
 #### Before Next Class
 
@@ -269,25 +308,7 @@ CLASS 12 | 11-12
 
 <details>
 <summary>
-CLASS 13 | 11-19
-</summary>
-
-<div class = "class-schedule-details">
-
-#### During Class
-- 1-on-1 Meetings
-
-#### Before Next Class
-
-- Read TBD
-
-</div>
-
-</details>
-
-<details>
-<summary>
-NO CLASS | 11-26
+NO CLASS | 11-27
 </summary>
 
 ### DECOLONIZE YOUR LIFE DAY
@@ -296,22 +317,17 @@ NO CLASS | 11-26
 
 <details>
 <summary>
-CLASS 14 | 12-03
+CLASS 14 | 12-04
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Final Project Critique
+- 1-on-1 meetings
 
 #### Before Next Class
 
-- Read Art-Object Post-Internet by Artie Vierkant
-- Document your work
-- Think of the documentation as itself an artwork
-- Use feedback from the critique to inform your decisions in documentation
-- Create a new are.na channel with the title of your artwork, connect this to your 'Objects and Non' channel
-- Upload your documentation to this new channel before the start of class
+- Finish Final Project for Presentation Next Class!
 
 </div>
 
@@ -319,13 +335,13 @@ CLASS 14 | 12-03
 
 <details>
 <summary>
-CLASS 15 | 12-10
+CLASS 15 | 12-11
 </summary>
 
 <div class = "class-schedule-details">
 
 #### During Class
-- Final Documentation Critique
+- Final Critique
 
 
 </div>
