@@ -27,5 +27,5 @@ module.exports = {
         'gatsby-transformer-remark',
         'gatsby-plugin-sass'
     ],
-    pathPrefix: '/objects-and-non',
+    pathPrefix: '/programming-for-artists-ccny-2020',
 };
