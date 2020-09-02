@@ -61,6 +61,7 @@ CLASS 02 | 09-04
 - Read p5 References:
   - [Debugging](https://p5js.org/learn/debugging.html)
   - [Color](https://p5js.org/learn/color.html)
+  - [map() function](https://www.youtube.com/watch?v=nicMAoW6u1g)
 
 - Create and Upload Exercise 2: Follower
   - Create a drawing of a Follower (interpret the meaning of this however you would like) that 'follows' your mouse around the canvas
@@ -88,7 +89,6 @@ CLASS 03 | 09-11
   - [Conditionals 1](https://www.youtube.com/watch?v=1Osb_iGDdjk)
   - [Conditionals 2](https://www.youtube.com/watch?v=LO3Awjn_gyU)
   - [Conditionals 3](https://www.youtube.com/watch?v=r2S7j54I68c&t=730s)
-  - [map() function](https://www.youtube.com/watch?v=nicMAoW6u1g)
 
 - Create and Upload Exercise 3: Interactive Poem
   - Create a poem that changes based on user interaction
