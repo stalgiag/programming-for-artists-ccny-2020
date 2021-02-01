@@ -1,5 +1,11 @@
 .marquee3k{
+    visibility: hidden;
 }
+
+.is-init{
+    visibility: visible;
+}
+
 
 #marquee-container {
     background: black;
@@ -9,4 +15,5 @@
     transform-origin: top right;
     transform: rotate(90deg) translateX(50%);
     overflow:hidden;
+    max-height: 70px;
 }
